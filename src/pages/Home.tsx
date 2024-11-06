@@ -8,7 +8,7 @@ export function Home() {
         <div className="absolute inset-0 bg-black bg-opacity-50" />
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-full flex items-center">
           <div className="text-white max-w-2xl">
-            <h1 className="text-5xl font-bold mb-6">Discover Your Signature Scent</h1>
+            <h1 className="text-5xl font-bold mb-6">Discover Your Signature Perfume</h1>
             <p className="text-xl mb-8">
               Explore our curated collection of luxury fragrances from the world's most prestigious perfume houses.
             </p>
